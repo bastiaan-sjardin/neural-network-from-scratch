@@ -1,3 +1,5 @@
+# by Bastiaan Sjardin
+
 #forward propagation
 import numpy as np
 import math
